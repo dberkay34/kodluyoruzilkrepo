@@ -1,0 +1,13 @@
+.text-red{
+    color: red;
+}
+
+.text-blue.font-bolt{
+    color: blue;
+    font-weight: bold;
+}
+
+.text-yellow {
+    color:yellow;
+    background-color: black;
+}
